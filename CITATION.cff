@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: "Simbox Tracking Platform"
+message: "If you use this work, please cite:"
+authors:
+  - family-names: Exodia Team
+year: 2025
+license: CC-BY-NC-SA-4.0
+keywords: [Cybersecurity, Hackathon, Simbox, IMSI Catcher, GIS, Triangulation]
+preferred-citation:
+  type: misc
+  title: "Simbox Tracking Platform using GIS, IMSI Catcher and Cellular Triangulation"
+  authors:
+    - family-names: Exodia Team
+  year: 2025
+  notes: "Cyber Warrior Hackathon Finalist Project"
