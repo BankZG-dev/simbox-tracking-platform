@@ -22,8 +22,8 @@ This project proposes a **geo-locating Simbox detection platform** that integrat
 - Presented workflow, technical + security implications to national-level judges
 
 ## 📄 Documents
-- [📑 Final Proposal (PDF)](docs/Exodia_Team_Final.pdf)  
-- [🎞️ Presentation Slides](docs/Exodia_Presentation.pdf)
+- [📑 Final Proposal (PDF)](docs/Simbox_Proposal.pdf)  
+- [🎞️ Presentation Slides](docs/Simbox_Presentation.pdf)
 
 ## 🔬 Future Work
 - Integration with real telco data feeds
