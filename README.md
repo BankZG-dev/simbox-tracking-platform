@@ -8,11 +8,11 @@ This project proposes a **geo-locating Simbox detection platform** that integrat
 
 - **GIS analysis**: suspicious area heatmaps from cell tower + call data
 - **IMSI Catcher (StingRay)**: field device to intercept IMSI of suspicious SIMs
-- **Cellular Triangulation**: precise localization of Simbox in target areas:contentReference[oaicite:2]{index=2}
+- **Cellular Triangulation**: precise localization of Simbox in target areas
 
 ## 🔑 Key Features
 - Suspicious call behavior detection (abnormal call volume, SIM rotation)
-- Location approximation from Cell ID + triangulation:contentReference[oaicite:3]{index=3}
+- Location approximation from Cell ID + triangulation
 - Heatmap visualization for risk area mapping
 - Automatic alerts to authorities
 - Field operation support with IMSI Catcher
